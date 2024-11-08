@@ -1,21 +1,21 @@
 insights:
 
-on the basis of gender:
+On the basis of gender:
 
 Females have an average math score of 63.6, reading score of 72.6, and writing score of 72.5.
 
 Males perform higher in math on average, with a score of 68.7, but have lower averages in reading (65.5) and writing (63.3).
 This suggests that while male students generally perform better in math, female students tend to excel in reading and writing.
 
- On the baisi of Parental Level of Education:
+On the baisis of Parental Level of Education:
 
-Students whose parents have a master’s degree achieve the highest average scores across all subjects, with scores of approximately 69.7 in math, 75.4 in reading, and 75.7 in writing.
-High school education as the highest parental education level correlates with the lowest average scores in math (62.1), reading (64.7), and writing (62.4).
+Students whose parents have a master’s degree achieve the highest average scores in all subjects, with scores 69.7 in math, 75.4 in reading, and 75.7 in writing.
+High school education as the highest parental education level,the student's are likely to achieve lowest average scores in math (62.1), reading (64.7), and writing (62.4).
 This trend implies a positive relationship between parental education level and student performance across subjects, with higher parental education potentially associated with better student outcomes.
 
 On the basis of Lunch Type:
 
-Students with standard lunch have higher average scores across all subjects, with math at 70.0, reading at 71.7, and writing at 70.8.
+Students with standard lunch have higher average scores in all subjects, with math at 70.0, reading at 71.7, and writing at 70.8.
 Students on free/reduced lunch score lower on average, with 58.9 in math, 64.7 in reading, and 63.0 in writing.
 This difference suggests that students with access to standard lunch may have better performance, potentially indicating the impact of socio-economic factors on academic achievement.
 
@@ -23,14 +23,16 @@ On the basis of Test Preparation Course:
 
 Students who completed the test preparation course show higher average scores, achieving around 69.7 in math, 73.9 in reading, and 74.4 in writing.
 Those who did not complete the test preparation course have lower scores on average, with 64.1 in math, 66.5 in reading, and 64.5 in writing.
-This indicates that test preparation is associated with better performance, particularly in reading and writing.
+This indicates that test preparation is associated with better performance, especially in reading and writing.
 
 Does parental education level impact student's performance?
 
 The answer is yes. According to the data, it seems parental education level does impact a student's performance 
 
 1. Parents who have hiher education like having master's or bachelor's degree, the students tend to excel in all subjects(in this case maths,writing and reading)
-2.Parents who have low education,their children are likely to perform poor as compare to the parents who have high education
+   as they can help their children in studies and can also provide resources in order to achieve straight A's
+2. Parents who have low education,their children are likely to perform poor as compare to the parents who have high education as they cannot afford much resources 
+   and hence, their children cannot perform well.
 
 
 
